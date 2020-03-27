@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lexer_parser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lexer_parser">
+				<Option output="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/lexer_parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 lexer_parser"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lexer_parser/fast">
+				<Option output="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/lexer_parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 lexer_parser/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/inputbuf.cc">
+			<Option target="lexer_parser"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/inputbuf.h">
+			<Option target="lexer_parser"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/lexer.cc">
+			<Option target="lexer_parser"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/lexer.h">
+			<Option target="lexer_parser"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/parser.cc">
+			<Option target="lexer_parser"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/parser.h">
+			<Option target="lexer_parser"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

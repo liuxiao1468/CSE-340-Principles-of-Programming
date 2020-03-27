@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lexer_parser.dir/inputbuf.cc.o CMakeFiles/lexer_parser.dir/lexer.cc.o CMakeFiles/lexer_parser.dir/parser.cc.o  -o lexer_parser 

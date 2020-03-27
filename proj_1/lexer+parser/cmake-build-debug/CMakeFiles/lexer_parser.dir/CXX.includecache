@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/inputbuf.h
+string
+-
+vector
+-
+
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/lexer.h
+vector
+-
+string
+-
+inputbuf.h
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/inputbuf.h
+
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/parser.cc
+iostream
+-
+cstdlib
+-
+parser.h
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/parser.h
+string
+-
+map
+-
+
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/parser.h
+string
+-
+lexer.h
+/home/leo/CSE340/proj_1/lexer+parser/lexer+parser/lexer.h
+map
+-
+
