@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/proj_2.dir/inputbuf.cc.o CMakeFiles/proj_2.dir/lexer.cc.o CMakeFiles/proj_2.dir/parser.cc.o CMakeFiles/proj_2.dir/project2.cc.o  -o proj_2 
