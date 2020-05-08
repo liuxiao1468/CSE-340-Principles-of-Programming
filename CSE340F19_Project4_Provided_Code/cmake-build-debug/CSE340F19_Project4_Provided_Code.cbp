@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSE340F19_Project4_Provided_Code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSE340F19_Project4_Provided_Code">
+				<Option output="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/CSE340F19_Project4_Provided_Code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSE340F19_Project4_Provided_Code"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSE340F19_Project4_Provided_Code/fast">
+				<Option output="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/CSE340F19_Project4_Provided_Code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSE340F19_Project4_Provided_Code/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/compiler.cc">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/compiler.h">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/demo.cc">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/inputbuf.cc">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/inputbuf.h">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/ir_debug.cc">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/ir_debug.h">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/lexer.cc">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/lexer.h">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/parser.cc">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/parser.h">
+			<Option target="CSE340F19_Project4_Provided_Code"/>
+		</Unit>
+		<Unit filename="/home/leo/CSE340/proj_4/CSE340F19_Project4_Provided_Code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

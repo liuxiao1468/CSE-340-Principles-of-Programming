@@ -1,0 +1,13 @@
+a , b;
+{
+  a = 11;
+  b = 1;
+  SWITCH a
+  { 
+    CASE 1: { print a;}
+    CASE 10: { print b; }
+    DEFAULT: {print a;}
+  }
+ print b;
+
+}
